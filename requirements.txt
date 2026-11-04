@@ -1,0 +1,12 @@
+aiogram==3.13.1
+python-dotenv==1.0.1
+deep-translator==1.11.4
+easyocr==1.7.2
+fpdf2==2.8.1
+Pillow==10.4.0
+aiofiles==24.1.0
+g2p-en==2.1.0
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+torch==2.4.1
+torchvision==0.19.1
